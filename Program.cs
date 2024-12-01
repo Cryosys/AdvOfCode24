@@ -4,7 +4,7 @@
 	{
 		static void Main(string[] args)
 		{
-			Advent1.Run();
+			Advent2.Run();
 		}
 	}
 }
